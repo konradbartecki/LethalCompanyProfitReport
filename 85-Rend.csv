@@ -1,0 +1,35 @@
+Item,Spawn Chance,Min Value (c),Max Value (c),Average Value (c),Weight (lb),Conductive,Two Handed
+Painting,6.67%,60,124,92,32,No,Yes
+Comedy,6.32%,28,52,40,11,No,No
+Fancy lamp,5.84%,60,128,94,21,Yes,Yes
+Brass bell,5.72%,48,80,64,24,Yes,No
+Robot toy,5.48%,56,88,72,21,Yes,No
+Bottles,5.48%,44,56,50,19,No,Yes
+Coffee mug,5.24%,24,68,46,5,No,No
+Hairdryer,5.13%,60,100,80,7,No,No
+Magnifying glass,4.17%,44,60,52,11,No,No
+Toy cube,3.93%,24,44,34,0,No,No
+Teeth,3.69%,60,84,72,0,No,No
+Perfume bottle,3.34%,48,104,76,0,No,No
+Red soda,3.1%,18,90,54,7,Yes,No
+Hair brush,2.98%,8,36,22,11,No,No
+Tea kettle,2.98%,32,56,44,21,Yes,No
+Tragedy,2.98%,28,52,40,11,No,No
+Golden cup,2.86%,40,80,60,16,No,No
+Toothpaste,2.86%,14,48,31,0,No,No
+Magic 7 ball,2.74%,36,72,54,16,No,No
+Ring,2.26%,52,80,66,16,Yes,No
+Gift Box,2.26%,12,28,20,19,No,No
+Old phone,2.03%,48,64,56,5,No,No
+Plastic fish,1.91%,28,40,34,0,No,No
+Rubber Ducky,1.91%,2,100,51,0,No,No
+Cash register,1.91%,80,160,120,84,Yes,Yes
+Candy,1.79%,6,36,21,11,No,No
+Airhorn,0.95%,52,72,62,0,No,No
+Clown horn,0.95%,52,72,62,0,Yes,No
+Laser pointer,0.6%,32,100,66,0,No,No
+Big bolt,0.48%,20,32,26,19,Yes,No
+Jar of pickles,0.48%,32,60,46,16,No,No
+Pill bottle,0.48%,16,40,28,0,No,No
+Large axle,0.24%,36,56,46,16,Yes,Yes
+V-type engine,0.24%,20,56,38,16,Yes,Yes

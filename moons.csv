@@ -1,0 +1,11 @@
+Name,Difficulty,Cost,Default Layout,Map Size Multiplier,Min Scrap,Max Scrap,Max Indoor Power,Max Outdoor Power
+41-Experimentation,Easy,0,The Factory,1,8,11,4,8
+220-Assurance,Easy,0,The Factory,1,13,15,6,8
+56-Vow,Easy,0,The Factory,1.15,12,14,7,6
+21-Offense,Intermediate,0,The Factory,1.25,14,17,12,8
+61-March,Intermediate,0,The Factory,2,13,16,14,12
+20-Adamance,Intermediate,0,The Factory,1.18,16,18,13,13
+85-Rend,Hard,550,The Manor,1.8,18,25,10,6
+7-Dine,Hard,600,The Manor,1.8,22,25,16,6
+8-Titan,Hard,700,The Factory,2.2,28,31,18,7
+68-Artifice,Hard,1500,The Manor,1.6,31,37,13,13

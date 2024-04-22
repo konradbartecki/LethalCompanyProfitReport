@@ -1,0 +1,35 @@
+Item,Spawn Chance,Min Value (c),Max Value (c),Average Value (c),Weight (lb),Conductive,Two Handed
+Big bolt,5.21%,20,32,26,19,Yes,No
+Tragedy,5.1%,28,52,40,11,No,No
+Comedy,4.77%,28,52,40,11,No,No
+V-type engine,4.43%,20,56,38,16,Yes,Yes
+Red soda,4.21%,18,90,54,7,Yes,No
+Large axle,4.1%,36,56,46,16,Yes,Yes
+Brass bell,4.1%,48,80,64,24,Yes,No
+Toothpaste,3.99%,14,48,31,0,No,No
+Robot toy,3.88%,56,88,72,21,Yes,No
+Painting,3.77%,60,124,92,32,No,Yes
+Bottles,3.66%,44,56,50,19,No,Yes
+Hair brush,3.44%,8,36,22,11,No,No
+Hairdryer,3.33%,60,100,80,7,No,No
+Tea kettle,3.33%,32,56,44,21,Yes,No
+Fancy lamp,2.99%,60,128,94,21,Yes,Yes
+Golden cup,2.99%,40,80,60,16,No,No
+Ring,2.99%,52,80,66,16,Yes,No
+Whoopie-Cushion,2.88%,6,20,13,0,Yes,No
+Magnifying glass,2.77%,44,60,52,11,No,No
+Rubber Ducky,2.66%,2,100,51,0,No,No
+Airhorn,2.66%,52,72,62,0,No,No
+Old phone,2.44%,48,64,56,5,No,No
+Coffee mug,2.33%,24,68,46,5,No,No
+Teeth,2.33%,60,84,72,0,No,No
+Toy cube,2.22%,24,44,34,0,No,No
+Gift Box,1.88%,12,28,20,19,No,No
+Plastic fish,1.77%,28,40,34,0,No,No
+Magic 7 ball,1.77%,36,72,54,16,No,No
+Clown horn,1.77%,52,72,62,0,Yes,No
+Pill bottle,1.66%,16,40,28,0,No,No
+Perfume bottle,1.55%,48,104,76,0,No,No
+Laser pointer,1.11%,32,100,66,0,No,No
+DIY-Flashbang,1.0%,10,28,19,5,No,No
+Jar of pickles,0.89%,32,60,46,16,No,No

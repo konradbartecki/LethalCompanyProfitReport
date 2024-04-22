@@ -1,0 +1,24 @@
+Item,Spawn Chance,Min Value (c),Max Value (c),Average Value (c),Weight (lb),Conductive,Two Handed
+Large axle,13.18%,36,56,46,16,Yes,Yes
+Big bolt,12.48%,20,32,26,19,Yes,No
+Tattered metal sheet,11.64%,10,22,16,26,Yes,No
+V-type engine,11.22%,20,56,38,16,Yes,Yes
+Bottles,9.4%,44,56,50,19,No,Yes
+Clown horn,6.03%,52,72,62,0,Yes,No
+Flask,5.89%,16,44,30,19,Yes,No
+Airhorn,4.77%,52,72,62,0,No,No
+Stop sign,4.07%,20,52,36,21,Yes,No
+Plastic fish,3.93%,28,40,34,0,No,No
+Tea kettle,3.37%,32,56,44,21,Yes,No
+Gift Box,3.37%,12,28,20,19,No,No
+Toy cube,2.52%,24,44,34,0,No,No
+Remote,2.24%,20,48,34,0,No,No
+Cookie mold pan,1.82%,12,40,26,16,No,No
+Yield sign,1.12%,18,36,27,42,Yes,No
+Magnifying glass,0.56%,44,60,52,11,No,No
+Gold bar,0.56%,102,210,156,77,Yes,No
+Laser pointer,0.42%,32,100,66,0,No,No
+Cash register,0.42%,80,160,120,84,Yes,Yes
+Candy,0.42%,6,36,21,11,No,No
+Robot toy,0.28%,56,88,72,21,Yes,No
+Red soda,0.28%,18,90,54,7,Yes,No

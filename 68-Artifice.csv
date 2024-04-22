@@ -1,0 +1,38 @@
+Item,Spawn Chance,Min Value (c),Max Value (c),Average Value (c),Weight (Ib),Conductive,Two Handed
+Robot toy,5.22%,56,88,72,21,Yes,No
+Painting,5.06%,60,124,92,32,No,Yes
+Rubber Ducky,4.89%,2,100,51,0,No,No
+Brass bell,4.57%,48,80,64,24,Yes,No
+Hairdryer,4.49%,60,100,80,7,No,No
+Golden cup,4.49%,40,80,60,16,No,No
+Fancy lamp,4.32%,60,128,94,21,Yes,Yes
+Tragedy Mask,4.32%,28,52,40,11,No,No
+Comedy Mask,4.16%,28,52,40,11,No,No
+Whoopie-Cushion,3.51%,6,36,21,0,No,No
+Toothpaste,3.43%,14,48,31,0,No,No
+Ring,3.43%,52,80,66,16,Yes,No
+Magnifying glass,3.43%,44,60,52,11,No,No
+Airhorn,3.18%,52,71,62,0,No,No
+Gold bar,2.94%,102,210,156,77,Yes,No
+Jar of pickles,2.69%,32,60,46,16,No,No
+Large axle,2.53%,36,56,46,16,Yes,Yes
+Clown horn,2.53%,52,72,62,0,Yes,No
+Magic 7 ball,2.45%,36,72,54,16,No,No
+Tea kettle,2.45%,32,56,44,21,Yes,No
+V-type engine,2.45%,20,56,38,16,Yes,Yes
+Teeth,2.20%,60,84,72,0,No,No
+Big bolt,2.12%,20,32,26,19,Yes,No
+Cash register,2.12%,80,160,120,84,Yes,Yes
+Old phone,2.04%,48,64,56,5,No,No
+Toy cube,1.63%,24,44,34,0,No,No
+Red soda,1.63%,18,90,54,7,Yes,No
+Easter egg,1.55%,22,52,37,3,No,No
+Hair brush,1.31%,8,36,22,11,No,No
+Plastic fish,1.31%,28,40,34,0,No,No
+Bottles,1.31%,44,56,50,19,No,Yes
+Pill bottle,1.22%,16,40,28,0,No,No
+Gift Box,1.22%,12,28,20,19,No,No
+Perfume bottle,1.14%,48,104,76,0,No,No
+DIY-Flashbang,1.06%,10,28,19,5,No,No
+Coffee mug,0.82%,24,68,46,5,No,No
+Laser pointer,0.82%,32,100,66,0,No,No
